@@ -290,6 +290,17 @@ nav a:hover::after {
   opacity: 0.9;
 }
 
+.footer-content{
+  text-align: center;
+  padding: 1rem 5%;
+  background-color: #b74b4b;
+  color: #333;
+}
+
+.huruf-copyright{
+  color: #fff;
+  font-size: 1.2rem;
+}
 /* Responsif */
 @media (max-width: 768px) {
   .home {
